@@ -24,7 +24,6 @@
 }
 body{
 	background-image: url(img/fondofondo.webp); 
-	background-attachment: fixed; 
 	}
 /*Colores de fuente y de fondo*/
 .bg-purple{
