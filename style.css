@@ -23,8 +23,8 @@
 		background-color: #8114A5
 }
 body{
-	background-image: url(img/fondofondo.webp); 
-	}
+	background-image: url(img/fondofondo.webp)!important; 
+	background-atatchment: fixed;}
 /*Colores de fuente y de fondo*/
 .bg-purple{
 	background-color: rgba(234,126,253,0.8);
